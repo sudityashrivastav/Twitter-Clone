@@ -1,8 +1,4 @@
 # Twitter clone built in Next.js + TypeScript + Tailwind CSS using Cloud Firestore and Storage
-  
-## Preview 🎬
-
-https://user-images.githubusercontent.com/55032197/201472767-9db0177a-79b5-4913-8666-1744102b0ad7.mp4
 
 ## Features ✨
 
